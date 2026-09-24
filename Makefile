@@ -46,4 +46,4 @@ clean:
 	rm -rf *.o $(TARGET1) $(TARGET2)
 
 # defining comments are for personal future reference :)
-# commented out code is for one single exe file "lab_four"
+# commented out code is for making one exe file "lab_four"
